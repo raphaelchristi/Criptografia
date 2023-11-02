@@ -1,6 +1,7 @@
 # Criptografia
 Estudo de teoria dos numeros e algoritmos de criptografia
 
+Criacao dos meus proprios algoritmos de criptografia
 
 ALGORITMOS
 
