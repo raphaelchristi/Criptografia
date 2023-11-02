@@ -9,6 +9,7 @@ ALGORITMOS
 A Cifra de César é uma das cifras mais simples, onde cada letra do texto original é deslocada um número fixo de posições no alfabeto. Por exemplo, um deslocamento de 3 posições transformaria "ABC" em "DEF".
 
 Criei minha propria versao da cifra de cezar, onde ela nao depende apenas de uma constante para haver um deslocamento e sim depende de uma funcao que altera o deslocamento a cada novo caracter.
+Ou seja, a cifra passa a ter uma dependencia funcional em vez de depender apenas de uma constante.
 
 ##  Cifra de Substituição Simples
 Neste método, cada letra do texto original é substituída por outra letra de acordo com uma correspondência pré-definida.
